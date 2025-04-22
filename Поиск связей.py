@@ -25,3 +25,4 @@ def check_link(a, b, graph):
     return 0
 
 print(check_link(10, 16, Graph))
+ 
